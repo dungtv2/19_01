@@ -6,7 +6,7 @@
     'description': """
 
     """,
-    'author': "Apps for Odoo",
+    'author': "David Laid",
     'website': '',
     'depends': ['web'],
     'data': ['templates.xml',
